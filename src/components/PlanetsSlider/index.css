@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.planet-slider-component {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  height: 100vh;
+  padding-top: 40px;
+}
+.planet-slider-component > h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 50px;
+  color: #05acff;
+}
+.slider-container {
+  width: 80%;
+  margin: auto;
+  padding: 10px 20px;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.planet-item-container {
+  text-align: center;
+}
+.planet-item-container > img {
+  width: 70%;
+  margin: auto;
+}
+.planet-item-container > h1 {
+  color: #f1f5f9;
+}
+.planet-item-container > p {
+  color: #f8fafc;
+}
